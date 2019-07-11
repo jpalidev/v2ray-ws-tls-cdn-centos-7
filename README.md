@@ -494,5 +494,3 @@ exit
 ```
 
 12.14. You can now test your server from a client. For example, you could install and configure V2RayN Windows GUI client from [https://github.com/2dust/v2rayN/releases](https://github.com/2dust/v2rayN/releases).
-
-![V2RayN Windows GUI client](/images/v2ray-centos-7-099.png)

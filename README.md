@@ -173,7 +173,7 @@ systemctl start nginx
 
 8.3. At this point, you can test your basic set up by opening a browser and visiting your server. You should see the Fedora EPEL Nginx test page.
 
-![Fedora EPEL Nginx test page](/images/v2ray-centos-7-030.png)
+![Fedora EPEL Nginx test page](/images/v2ray-centos-7-027.png)
 
 8.4. You can add your content now. If you do not have content of your own, you can use some sample content. To use the sample content, issue the following commands on your server:
 

@@ -363,7 +363,7 @@ wget https://install.direct/go.sh
 bash go.sh
 ```
 
-11.6. A default PORT and UUID are displayed toward the end of the install. The UUID is effectively a password, and will need to be known by the client when we set up the Windows PC in a moment. It will look something like this:
+11.6. A default PORT and UUID are displayed toward the end of the install. The UUID is effectively a password, and will need to be known by the client(s). The relevant lines will look something like this:
 
 ```
 PORT:40607

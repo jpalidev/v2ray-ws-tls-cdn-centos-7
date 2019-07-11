@@ -30,7 +30,20 @@
 
 ![Freenom email link](/images/v2ray-centos-7-006.png)
 
-2.7. Fill in your details -- name, address, and phone number.
+2.7. Fill in your details:
+
+* First Name
+* Last Name
+* Company Name (optional)
+* Address
+* City
+* State/Region
+* Zip Code
+* Country
+* Phone Number
+* Email Address
+* Password
+* Confirm Password
 
 ![Freenom new account details](/images/v2ray-centos-7-007.png)
 
